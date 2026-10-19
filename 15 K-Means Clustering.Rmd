@@ -662,7 +662,7 @@ Salespeople at the supplier firm should allocate their time proportional to the 
 
 *Artwork by @allison_horst*
 
-## Exercise 17
+## Exercise 14
 
 1. Simulate data like we did in class but with 5 clusters and three variables: average number of days between purchases (`purchase_frequency`), total number of past purchases (`purchase_total`), and membership in a premium subscription program (`premium`).
 2. Tune `k` where `k = 1:10` and you cluster just on `purchase_frequency` and `purchase_total`.
